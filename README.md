@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakkumar766&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sarthakrpc&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -75,6 +75,6 @@
 ---
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarthakkumar766&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarthakrpc&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkumar766&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakrpc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
